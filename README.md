@@ -1,4 +1,4 @@
-# Hi, I'm Jesica 👋
+# Hi, I'm Jesica
 
 MBA student at **Carnegie Mellon (Tepper)**, focused on healthcare growth strategy and AI.
 
