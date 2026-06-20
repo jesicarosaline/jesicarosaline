@@ -2,7 +2,7 @@
 
 MBA student at **Carnegie Mellon (Tepper)**, focused on healthcare growth strategy and AI.
 
-Before business school, I spent 4 years in growth at a telehealth startup in Indonesia — leading GTM, lifecycle, and customer acquisition. I also have a finance background from EY (Strategy & Transactions), Helios Capital, and Medco.
+Before business school, I spent 4 years in growth at a telehealth startup in Indonesia — leading GTM, lifecycle, and customer acquisition. I also have a finance background from EY (Strategy & Transactions) and other companies in Corporate Finance.
 
 ---
 
