@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jesica 👋
 
-<!--
-**jesicarosaline/jesicarosaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA student at **Carnegie Mellon (Tepper)**, focused on healthcare growth strategy and AI.
 
-Here are some ideas to get you started:
+Before business school, I spent 4 years in growth at a telehealth startup in Indonesia — leading GTM, lifecycle, and customer acquisition. I also have a finance background from EY (Strategy & Transactions), Helios Capital, and Medco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm building
+
+### 🏥 LinkedIn Healthcare Networking Automation
+An AI-assisted outreach pipeline targeting 243 U.S. healthcare growth professionals.
+
+Built a system that scrapes LinkedIn, researches each company, verifies current employment, generates a personalized ≤300-character connection message per contact, and sends 20 invitations per day on a scheduled cadence — automatically.
+
+→ [See the project](https://github.com/jesicarosaline/linkedin-healthcare-networking)
+
+---
+
+## Skills
+
+**Domain:** Healthcare growth strategy · Go-to-market · AI in healthcare · Venture & growth equity · Strategy & transactions
+
+**Tools & automation:** Python · Excel (openpyxl) · LinkedIn automation · AI-assisted workflows · Scheduled task pipelines · Data scraping & enrichment
+
+**Business:** GTM strategy · Customer acquisition · Lifecycle marketing · Financial modeling · Corporate finance
+
+---
+
+📫 jrosalin@tepper.cmu.edu
