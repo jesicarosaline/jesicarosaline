@@ -1,17 +1,17 @@
-# Hi, I'm Jesica
+# Hi, I'm Jesica 👋
 
 MBA student at **Carnegie Mellon (Tepper)**, focused on healthcare growth strategy and AI.
 
-Before business school, I spent 4 years in growth at a telehealth startup and led GTM execution, lifecycle, and customer acquisition. I also have a finance background from EY (Strategy & Transactions) and other companies.
+Before business school, I spent 4 years in growth at a telehealth startup in Indonesia — leading GTM, lifecycle, and customer acquisition. I also have a finance background from EY (Strategy & Transactions), Helios Capital, and Medco.
 
 ---
 
 ## What I'm building
 
-### 🏥 LinkedIn Healthcare Networking Automation
-An AI-assisted outreach pipeline targeting 243 U.S. healthcare growth professionals.
+### 🏥 LinkedIn Healthcare Networking Pipeline
+An AI-assisted system for building a targeted outreach pipeline in U.S. healthcare growth.
 
-Built a system that scrapes LinkedIn, researches each company, verifies current employment, generates a personalized ≤300-character connection message per contact, and sends 20 invitations per day on a scheduled cadence automatically.
+Built a 243-person prospect list with segment scoring by healthcare vertical, employment verification, and a personalized ≤300-character connection message for each contact — structured for a paced daily outreach cadence.
 
 → [See the project](https://github.com/jesicarosaline/linkedin-healthcare-networking)
 
@@ -21,7 +21,7 @@ Built a system that scrapes LinkedIn, researches each company, verifies current 
 
 **Domain:** Healthcare growth strategy · Go-to-market · AI in healthcare · Venture & growth equity · Strategy & transactions
 
-**Tools & automation:** Python · Excel (openpyxl) · LinkedIn automation · AI-assisted workflows · Scheduled task pipelines · Data scraping & enrichment
+**Tools & automation:** Python · Excel (openpyxl) · AI-assisted workflows · Lead scoring & segmentation · Data enrichment & verification
 
 **Business:** GTM strategy · Customer acquisition · Lifecycle marketing · Financial modeling · Corporate finance
 
