@@ -1,17 +1,22 @@
 # Hi, I'm Jesica 👋
 
-MBA student at **Carnegie Mellon (Tepper)**, focused on healthcare growth strategy and AI.
+MBA candidate at **Carnegie Mellon (Tepper)**, building toward lead and manager level roles in GTM, Growth, and Product Marketing.
 
-Before business school, I spent 4 years in growth at a telehealth startup in Indonesia — leading GTM, lifecycle, and customer acquisition. I also have a finance background from EY (Strategy & Transactions), Helios Capital, and Medco.
+Before business school, I spent 4 years in growth at a telehealth startup in Indonesia as founding-team Product Marketing Lead, owning GTM, lifecycle, and customer acquisition for a team of five. I also have a finance background from EY (Strategy & Transactions), Helios Capital, and Medco.
 
 ---
 
 ## What I'm building
 
-### 🏥 LinkedIn Healthcare Networking Pipeline
-An AI-assisted system for building a targeted outreach pipeline in U.S. healthcare growth.
+### 📊 Retention and Unit Economics Analysis
+A GTM analytics project on the Olist e-commerce dataset: size-weighted, censoring-aware cohort retention, driver testing, and a CAC ceiling model that prices out how much a growth budget can actually afford to pay for a customer.
 
-Built a 243-person prospect list with segment scoring by healthcare vertical, employment verification, and a personalized ≤300-character connection message for each contact — structured for a paced daily outreach cadence.
+→ [See the project](https://github.com/jesicarosaline/Retention-Analysis)
+
+### 🏥 LinkedIn Healthcare Networking Pipeline
+A targeted outreach and lead scoring pipeline for U.S. healthcare growth roles.
+
+Built a 243-person prospect list with segment scoring by vertical, employment verification, and a personalized, under 300 character connection message for each contact, structured for a paced daily outreach cadence.
 
 → [See the project](https://github.com/jesicarosaline/linkedin-healthcare-networking)
 
@@ -19,11 +24,11 @@ Built a 243-person prospect list with segment scoring by healthcare vertical, em
 
 ## Skills
 
-**Domain:** Healthcare growth strategy · Go-to-market · AI in healthcare · Venture & growth equity · Strategy & transactions
+**Domain:** GTM strategy and operations · Growth marketing · Product marketing · RevOps and analytics · Healthcare growth strategy
 
-**Tools & automation:** Python · Excel (openpyxl) · AI-assisted workflows · Lead scoring & segmentation · Data enrichment & verification
+**Tools:** SQL · Python · Excel (openpyxl) · HubSpot · Lead scoring and segmentation · Data enrichment and verification
 
-**Business:** GTM strategy · Customer acquisition · Lifecycle marketing · Financial modeling · Corporate finance
+**Business:** Customer acquisition · Lifecycle marketing and retention · Pipeline to ARR · Financial modeling · Corporate finance
 
 ---
 
