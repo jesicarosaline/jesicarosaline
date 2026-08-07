@@ -13,10 +13,10 @@ A GTM analytics project on the Olist e-commerce dataset: size-weighted, censorin
 
 → [See the project](https://github.com/jesicarosaline/Retention-Analysis)
 
-### 🏥 LinkedIn Healthcare Networking Pipeline
-A targeted outreach and lead scoring pipeline for U.S. healthcare growth roles.
+### 🎯 LinkedIn Outreach and Lead Scoring Pipeline
+A targeted outreach and lead scoring pipeline: identifies the right prospects, segments them, verifies current employment, and generates a personalized connection message for each one.
 
-Built a 243-person prospect list with segment scoring by vertical, employment verification, and a personalized, under 300 character connection message for each contact, structured for a paced daily outreach cadence.
+Built a 243-person, fully enriched contact list with segment scoring, employment verification, and a personalized, under 300 character message for each contact, structured for a paced daily outreach cadence.
 
 → [See the project](https://github.com/jesicarosaline/linkedin-healthcare-networking)
 
@@ -24,7 +24,7 @@ Built a 243-person prospect list with segment scoring by vertical, employment ve
 
 ## Skills
 
-**Domain:** GTM strategy and operations · Growth marketing · Product marketing · RevOps and analytics · Healthcare growth strategy
+**Domain:** GTM strategy and operations · Growth marketing · Product marketing · RevOps and analytics
 
 **Tools:** SQL · Python · Excel (openpyxl) · HubSpot · Lead scoring and segmentation · Data enrichment and verification
 
