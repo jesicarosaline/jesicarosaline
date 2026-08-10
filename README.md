@@ -1,4 +1,4 @@
-# Hi, I'm Jesica 👋
+# Hi, I'm Jesica Rosaline
 
 MBA candidate at **Carnegie Mellon (Tepper)**, building toward lead and manager level roles in GTM, Growth, and Product Marketing.
 
@@ -8,17 +8,17 @@ Before business school, I spent 4 years in growth at a telehealth startup in Ind
 
 ## What I'm building
 
-### 📊 Retention and Unit Economics Analysis
+### Retention and Unit Economics Analysis
 A GTM analytics project on the Olist e-commerce dataset: size-weighted, censoring-aware cohort retention, driver testing, and a CAC ceiling model that prices out how much a growth budget can actually afford to pay for a customer.
 
 → [See the project](https://github.com/jesicarosaline/Retention-Analysis)
 
-### 🔁 Conversion Funnel Analysis
+### Conversion Funnel Analysis
 A GA4 e-commerce funnel and acquisition analysis: corrected funnel measurement, a localized checkout leak, channel and source quality decomposition, and a paid-versus-retention budget case, backed by a live Looker Studio dashboard. Pairs with the retention project above as the pre-purchase half of the same growth picture.
 
 → [See the project](https://github.com/jesicarosaline/Conversion-Funnel-Analysis)
 
-### 🎯 LinkedIn Outreach and Lead Scoring Pipeline
+### LinkedIn Outreach and Lead Scoring Pipeline
 A targeted outreach and lead scoring pipeline: identifies the right prospects, segments them, verifies current employment, and generates a personalized connection message for each one.
 
 Built a 243-person, fully enriched contact list with segment scoring, employment verification, and a personalized, under 300 character message for each contact, structured for a paced daily outreach cadence.
